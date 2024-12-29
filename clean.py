@@ -12,7 +12,7 @@ with open(input_file, mode='r', encoding='utf-8') as infile:
     # Process each row in the CSV
     for row in reader:
         # Replace occurrences in each cell of the row
-        updated_row = [cell.replace("BrainDrain", "Brain Drain") for cell in row]
+        updated_row = [cell.replace("loyality", "Brain Drain") for cell in row]
         rows.append(updated_row)
 
 # Open the output CSV file for writing

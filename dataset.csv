@@ -1,34 +1,19 @@
 Corpus,Tweet Text,Stance,Foundation
 EVM,#EVMs are easy to manipulate . This was demonstrated by the #BJP in 2009 !,1,Fairness
-CAA,"Congratulations
-Aa gya  #CAA",1,Loyalty
-CAA,"My dear Indian muslims we are 35 crores of population in india if we get united each & every politician & hindutvawadis will become useless
-
-Remember the #caa protests",-1,Loyalty
-CAA,"This guy was part of anti Hindu protests in the name of #CAA in which many Hindus were kiIIed.
-
-Today he's enjoying celebrity life!!!!",1,Authority
+CAA,"Congratulations Aa gya  #CAA",1,Loyalty
+CAA,"My dear Indian muslims we are 35 crores of population in india if we get united each & every politician & hindutvawadis will become useless Remember the #caa protests",-1,Loyalty
+CAA,"This guy was part of anti Hindu protests in the name of #CAA in which many Hindus were kiIIed. Today he's enjoying celebrity life!!!!",1,Authority
 CAA,Woman protester breaks down while speaking to NDTV's Ravish Kumar at Delhi's #ShaheenBagh #CAA #NRC,0,Care
 CAA,"So its Clear now Protest against #CAA is not for Political/Democratic Reason it's Ghazwa-E-Hind,Anti Hindu and Pure Fanatic Islamic Movement.",1,Purity
-CAA,"Delhi with #CAA
-Delhi with 
-@narendramodi
- 
-Delhi with 
-@AmitShah",1,Loyalty
+CAA,"Delhi with #CAA Delhi with @narendramodiDelhi with @AmitShah",1,Loyalty
 CAA,"Madhya Pradesh: A protestor pulls hair of Rajgarh Deputy Collector Priya Verma, after she hits BJP workers and drags them. The clash broke out during a demonstration in support of #CAA.",0,Fairness
 CAA,"In the freezing cold of December, the women of Shaheen bagh keep vigil under blankets, their infants in a huddle under one arm, as men distribute chai and boiled eggs. It's 17th night of this women led vigil against #CAA #NRC. The Tiranga is at the centre #ShaheenBagh",-1,Care
-CAA,"Meanwhile the Shiv Sena still doesn’t know what #CAA is all about 
-They are just toeing what “Sonia Amma“ says them to toe ",1,Loyalty
+CAA,"Meanwhile the Shiv Sena still doesn’t know what #CAA is all about They are just toeing what “Sonia Amma“ says them to toe ",1,Loyalty
 CAA,I’m an Indian Muslim and I welcome #CAA,1,Fairness
 CAA,"Congress leader Mani Shankar Aiyar at the protest against #CAA & #NRC, in Delhi's Shaheen Bagh: Jo bhi qurbaniyan deni hon, usme main bhi shaamil hone ke liye tayaar hun. Ab dekhein ki kiska hath mazboot hai, hamara ya uss kaatil ka?",0,Loyalty
 CAA,"Kapil Mishra, BJP on violence in North East Delhi: I appeal to everyone to stop violence as it will not lead to any solution. Whether it is people who are supporting #CAA or those who are against it, I appeal everyone to maintain peace. Delhi's brotherhood should remain intact.",0,Care
 CAA,"Students have contacted us from Jyoti Nivas college in Bangalore and told us they were threatened to support #CAA or ""face consequences like JNU""- this happened outside their college gates. Hope relevant authorities are taking note",-1,Authority
-CAA,"Dark day for India. 
-
-A religion-based citizenship test is antithetical to the secular constitutional foundations of the republic, and I will fight against this legally and politically with all my might.
-
-#CAA #MNMagainstCAA #CAANotification",-1,Fairness
+CAA,"Dark day for India. A religion-based citizenship test is antithetical to the secular constitutional foundations of the republic, and I will fight against this legally and politically with all my might.#CAA #MNMagainstCAA #CAANotification",-1,Fairness
 EVM,#EVM machines never refuse to dissapoint #MaharashtraElection2024 #Haryana,-1,Fairness
 EVM,Do you still believe #EVM's are hacked?,0,Authority
 EVM,Modi himself raised serious concern about EVM during the 2014 LS election. What happened to his stand now ? Will the media share this clip to Modi ask his stand ?@narendramodi #EVM,-1,Authority
@@ -37,98 +22,46 @@ EVM,Ppl standing in Rain to welcome PM Modi in kerala. Then the lobby questions 
 EVM,Pappu : Who needs Enemies when you have Friends like Karti Chidambaram. #EVM #EVMs,1,Loyalty
 EVM,I strongly feel #Modi did use some Pegasus type of malware to manipulate #EVM during 2019 elections. ,-1,Authority
 EVM,The only person likely to believe all these #EVM hacking stories is Rahul Gandhi.,1,Loyalty
-EVM,"Broad daylight kidnapping of a girl in #BJP ruled #Rajasthan state Difficult to believe that the #BJP party enjoys popular mandates. Why would people ever vote for such rogues?
-#EVM Manipulation?",0,Fairness
-EVM,"Retired IAS #Kannan_Gopinathan  tells u why it's necessary to ban #EVM's.Earlier, by pressing the button of #EVM, vote went directly to the CU & now #VVPAT is  in between.
-Vote rigging happens in the VVPAT only. Why is the SC  not banning #EVM's ?",0,Authority
+EVM,"Broad daylight kidnapping of a girl in #BJP ruled #Rajasthan state Difficult to believe that the #BJP party enjoys popular mandates. Why would people ever vote for such rogues? #EVM Manipulation?",0,Fairness
+EVM,"Retired IAS #Kannan_Gopinathan  tells u why it's necessary to ban #EVM's.Earlier, by pressing the button of #EVM, vote went directly to the CU & now #VVPAT is  in between. Vote rigging happens in the VVPAT only. Why is the SC  not banning #EVM's ?",0,Authority
 EVM,Big difference between booth capturing and EVM fraud: Booth capturing can be caught and fixed. EVM fraud can go unnoticed and can't be solved #EVM,0,Fairness
 EVM,"At this rate, soon #EVM's will be on Amazon and Flipkart.",-1,Fairness
 EVM,"‘BJP’s vision, only television’.... so now they are claiming & dreaming to rule for the next 50 years... seems like they have full confidence in their EVM strategy, that is, Election Via Mischief. *#EVM #ElectionViaMischief*",0,Purity
-EVM,"Vote rigging takes place in VVPAT also.Many organizations, intellectuals, lawyers are raising voice to ban #EVM. 
-Even honest officers are resigning, still why is the Supreme Court not banning #EVM?",0,Authority
+EVM,"Vote rigging takes place in VVPAT also.Many organizations, intellectuals, lawyers are raising voice to ban #EVM. Even honest officers are resigning, still why is the Supreme Court not banning #EVM?",0,Authority
 EVM,When are they going to blame #EVM?#ElectionResults #VictoryForEknathSinde #Mahayuti,-1,Fairness
 EVM,The #EVM scam !Why should it be treated as a holy black box ? We need openness and transparency,1,Fairness
 EVM,"#EVM is cheating with voters, with democracy. Paper ballot is only transparent way #BanEVM",1,Fairness
 EVM,"In my POV, If BJP could really manipulate  #EVM, they would have never let go #Karnataka and definitely took #Bengal  Agree?",1,Fairness
-EVM,"If you win, Democracy wins. But If you loose, Blame EVMs. BJP @BJP4India has never raised concerns about the reliability of EVMs or questioned the integrity of the Election Commission of India. 
-@ECISVEEP #EVM",1,Authority
+EVM,"If you win, Democracy wins. But If you loose, Blame EVMs. BJP @BJP4India has never raised concerns about the reliability of EVMs or questioned the integrity of the Election Commission of India. @ECISVEEP #EVM",1,Authority
 EVM,"I have spent about 60 years in the forefront of #electronics, #telecom,IT, #software, #complex systems and a lot more. I have studied #EVM system carefully and believe that it is possible to manipulate. The best approach is the traditional paper ballet to count as casted.",0,Authority
 EVM,"Leftist Propaganda Portal The Wire spreads fake news on “mismatched” voters count in Maharashtra elections, but later deletes it when the Chief electoral officer of Maharashtra exposes them #EVM #MaharashtraElection2024",0,Purity
 EVM,#HTEditorial | It may well be time for a section of the #Opposition to abandon its tired rhetoric on #EVM manipulation.,0,Authority
-CAA,"Interacted with students of 
-@iimtnoida
- in morning. Must Say Youth is well informed about #CAA & fake narrative build around it .",0,Loyalty
-CAA,"Bengaluru Church organising protest against #CAA which allows oppressed Christians to get Indian citizenship..
-
-What to say!!!",1,Care
-CAA,"The World is watching.India is protesting 
-@narendramodi
- 
-@AmitShah
- Repeal the #CAA. Stop trying to silence us. 
-#NoViolenceButNoSilence",-1,Fairness
-CAA,"#CAA is meant to provide fast track citizenship to non-Muslim families from Afghanistan, Pakistan and Bangladesh that have been lynched, raped and persecuted for generations due to their religious beliefs. 
-
-Whatever side you’re on, make sure it’s the compassionate one.",0,Care
+CAA,"Interacted with students of @iimtnoida in morning. Must Say Youth is well informed about #CAA & fake narrative build around it .",0,Loyalty
+CAA,"Bengaluru Church organising protest against #CAA which allows oppressed Christians to get Indian citizenship.What to say!!!",1,Care
+CAA,"The World is watching.India is protesting @narendramodi @AmitShah Repeal the #CAA. Stop trying to silence us. #NoViolenceButNoSilence",-1,Fairness
+CAA,"#CAA is meant to provide fast track citizenship to non-Muslim families from Afghanistan, Pakistan and Bangladesh that have been lynched, raped and persecuted for generations due to their religious beliefs. Whatever side you’re on, make sure it’s the compassionate one.",0,Care
 CAA,The right wing media did not spend a fraction of  outrage on a woman accused of a terror blast who sits in Parliament  as they have on the Facebook posts of two 22 years olds. I'm just struck by how important it is to them to make the students protesting against #CAA look bad.,-1,Loyalty
 CAA,"If there are to be North East specific #CAA rules, what happened to the One Nation, One Law motto that drove decisions in #Kashmir?",-1,Fairness
-CAA,"BJP’s intentions have been clear since before the elections. 
-@AmitShah
- repeated the same in Parliament. Today, to claim that there is no real plan to deliver a one-two punch (#NRC after #CAA) is disingenuous. The people of India are protesting precisely what BJP says it will do.",0,Authority
-CAA,"Anyone spreading fake news and rumors about #CAA will face strict legal action. This law doesn't revoke anyone's citizenship, and it isn't against any religion or faith.
-
-Be a responsible citizen, know the truth, and beware of fake news.",0,Authority
-CAA,"I am seriously concerned that #CAA can be easily misused for infiltrating into the country, particularly in border states like Punjab.  It’s a potential threat to national security 
-@rsprasad
- Ji. Does the 
-@BJP4India
- led central govt even know what it's doing?",-1,Care
+CAA,"BJP’s intentions have been clear since before the elections. @AmitShah repeated the same in Parliament. Today, to claim that there is no real plan to deliver a one-two punch (#NRC after #CAA) is disingenuous. The people of India are protesting precisely what BJP says it will do.",0,Authority
+CAA,"Anyone spreading fake news and rumors about #CAA will face strict legal action. This law doesn't revoke anyone's citizenship, and it isn't against any religion or faith.Be a responsible citizen, know the truth, and beware of fake news.",0,Authority
+CAA,"I am seriously concerned that #CAA can be easily misused for infiltrating into the country particularly in border states like Punjab.  It’s a potential threat to national security @rsprasadJi. Does the @BJP4India led central govt even know what it's doing?",-1,Care
 CAA,Head constable of Delhi Police  Ratan Lal dies as violent clashes escalate between pro and anti #CAA protesters in North East Delhi. Horrifying news. And a day after ultimatum by Kapil Mishra that all protests have to be cleared or else.. Whoever responsible must be arrested now,-1,Care
-CAA,"Aslam from Bhopal can’t read/speak English. Doesn’t read newspapers. Doesn’t know what #CAA stands for. Doesn’t know if Assam is in East or West. He is a Bollywood fan.
-
-Now he opposes #CAA #NRC and burning tyres as protest because Farhan Akhtar & Alia Bhatt have opposed it.",1,Loyalty
-CAA,"Competing priorities, political realities and delicate balancing between what’s immediately possible and what could potentially disrupt peace and progress made so far.
-
-#CAA took a while, saw widespread protests and #ShaheenBagh. It didn’t concern a single Indian Muslim.",0,Fairness
-CAA,"Farmers protest mein Indian Police ne force nahi use kiya tha.
-
-We didn't employ snipers against our citizens even in  Radical Islamo-Leftist #CAA Delhi riots .
-
-Forget cricket .
-Will PK exist in its current geography ?",0,Purity
+CAA,"Aslam from Bhopal can’t read/speak English. Doesn’t read newspapers. Doesn’t know what #CAA stands for. Doesn’t know if Assam is in East or West. He is a Bollywood fan. Now he opposes #CAA #NRC and burning tyres as protest because Farhan Akhtar & Alia Bhatt have opposed it.",1,Loyalty
+CAA,"Competing priorities political realities and delicate balancing between what’s immediately possible and what could potentially disrupt peace and progress made so far. #CAA took a while, saw widespread protests and #ShaheenBagh. It didn’t concern a single Indian Muslim.",0,Fairness
+CAA,"Farmers protest mein Indian Police ne force nahi use kiya tha. We didn't employ snipers against our citizens even in  Radical Islamo-Leftist #CAA Delhi riots .Forget cricket . Will PK exist in its current geography ?",0,Purity
 CAA,"Dear Modi govt, withdraw present #CAA and if you must have it, redraft it substantially. Take out these words :”Hindu, Sikh, Buddhist, Jain, Parsi, Christian.” Replace with these words: “persecuted religious minorities.” 🙏#CAA_NRC_Protests",-1,Fairness
-CAA,"Today there is a BIG protest by Muslims and their supporters against #CAA in August Kranti Maidan, from 3 to 8 pm. Pl. alert all your relatives and closed ones. Request all to stay away from that area to avoid trouble.
-
-- via NGO.",0,Care
+CAA,"Today there is a BIG protest by Muslims and their supporters against #CAA in August Kranti Maidan from 3 to 8 pm. Pl. alert all your relatives and closed ones. Request all to stay away from that area to avoid trouble. - via NGO.",0,Care
 CAA,"Very big news, #CAA is implemented in India by the Modi govt...",0,Authority
-CAA,"Occupying PoK is a fancy idea but what about PoK Muslims? 
-
-We can’t give them citizenship now as #CAA is already in force.",-1,Fairness
-CAA,"Prime Minister 
-@narendramodi
- angrily says there has been no talk of nationwide NRC except Supreme Court mandated #NRC in Assam. But this sir is not true. The Home Minister has clearly referenced it. All you need to say is that there is NO NRC for India #CAA #NRC #RamlilaMaidan",0,Authority
+CAA,"Occupying PoK is a fancy idea but what about PoK Muslims? We can’t give them citizenship now as #CAA is already in force.",-1,Fairness
+CAA,"Prime Minister @narendramodi angrily says there has been no talk of nationwide NRC except Supreme Court mandated #NRC in Assam. But this sir is not true. The Home Minister has clearly referenced it. All you need to say is that there is NO NRC for India #CAA #NRC #RamlilaMaidan",0,Authority
 CAA,"Stop watching Hindi movies of the actors, directors, writers, anyone who has supported the violent protests, looting and arson by Muzlims over #CAA. This is ONLY way to teach them a lesson. Starve them of money.",1,Purity
-CAA,"Dear 
-@DelhiPolice
-, as a citizen, I urge you to take action against the journalists who are spreading unverified news & vile rumors through online platforms, social media, Whatsapp etc. on #CAA. Nobody should be above law especially when rioters are trying to set fire to India.",0,Authority
-CAA,"I will not provide documents for #NRC. 
-
-Who is Amit Shah and Narendra Modi to determine my Indianness ? 
-
-#CAB #CAA",-1,Fairness
+CAA,"Dear @DelhiPolice as a citizen, I urge you to take action against the journalists who are spreading unverified news & vile rumors through online platforms, social media, Whatsapp etc. on #CAA. Nobody should be above law especially when rioters are trying to set fire to India.",0,Authority
+CAA,"I will not provide documents for #NRC. Who is Amit Shah and Narendra Modi to determine my Indianness ? #CAB #CAA",-1,Fairness
 CAA,Does this Mor0n even understand what #CAA is?,0,Purity
 UCC,"Two votes for #RamMandir, two votes for  #BrandBharat. Two votes for #UCC, Two votes for #Vikas!",1,Loyalty
-UCC," invited Owaisi Saheb for debate on #UCC but he blocked me. 
-
-He don't want One to One Debate 
-
-#UniformCivilCode 
-@blsanthosh",0,Authority
-UCC,"Reply to #KhanSir on #Uniform_Civil_Code 
-
-#UCCDividesIndia",-1,Purity
-UCC,"I support #UniformCivilCode 
-#Uniform_Civil_Code",1,Loyalty
+UCC," invited Owaisi Saheb for debate on #UCC but he blocked me. He don't want One to One Debate #UniformCivilCode @blsanthosh",0,Authority
+UCC,"Reply to #KhanSir on #Uniform_Civil_Code #UCCDividesIndia",-1,Purity
+UCC,"I support #UniformCivilCode #Uniform_Civil_Code",1,Loyalty
 UCC,"Law Commission of #India extends deadline for submitting views on #UCC till July 28.
 
 #Uniform_Civil_Code",0,Authority
@@ -142,111 +75,40 @@ UCC,"what's going on in your mind,,
 UCC,"Join me in supporting the #Uniform_Civil_Code (UCC) for India's progress and unity! #OneNation_OneLaw will strengthen our diverse society, treating all citizens equally under a common legal framework. Let's rise above divisive influences and embrace this positive change.",1,Loyalty
 UCC,The real intention of the #UniformCivilCode of #India is #Manusmriti based RSS run society. #Indian #Uniform_Civil_Code,0,Purity
 UCC,There is need for nationwide implementation of Uniform Civil Code (UCC) & One Nation One Election concept : CM Sawant,0,Authority
-UCC,"Love how 
-@narendramodi
- has everyone guessing about the exact purpose of the special session of the parliament. Lots of decoys abound though, #UCC, #OneNationOneEducation #Bharat but no one knows exactly what is coming :)",1,Fairness
+UCC,"Love how @narendramodi has everyone guessing about the exact purpose of the special session of the parliament. Lots of decoys abound though, #UCC, #OneNationOneEducation #Bharat but no one knows exactly what is coming :)",1,Fairness
 UCC,The Law Commission of #India has set the deadline of July 14th for submitting opinions via email regarding the #Uniform_Civil_Code. It is important for every citizen of India to exercise this right and express their views. We should voice our opinion that the #UCC is not suitable for a diverse country like India. ,-1,Authority
-UCC,"We live in an India where Muskan is rewarded for breaking rules while Harsha is murdered for advocating #UCC uniform civil code in educational institutions. 
-Hey 
-@thevirdas
- , kindly remember this for your next act.",1,Fairness
-UCC,"I'm surprised  to know that 
-@HMOIndia
- & Law Ministry is opposing the PIL of 
-@AshwiniBJP
- on #Uniform_Civil_Code though #UCC is integral part of BJP's Manifesto since its birth.
-",0,Authority
-UCC,"Pmk strictly opposes Uniform civil code. 
-@draramadoss
-
-
-#PMK #ANBUMANI #RAMADOSS #UCC  #Uniform_Civil_Code",-1,Purity
-UCC,"Say #NoUCC 
-#Uniform_Civil_Code",-1,Purity
-UCC,"My Vote is for Secular Uniform Civil Code.
-#uniform_civil_code 
-#secularucc",-1,Fairness
+UCC,"We live in an India where Muskan is rewarded for breaking rules while Harsha is murdered for advocating #UCC uniform civil code in educational institutions. Hey @thevirdas, kindly remember this for your next act.",1,Fairness
+UCC,"I'm surprised  to know that @HMOIndia& Law Ministry is opposing the PIL of @AshwiniBJPon #Uniform_Civil_Code though #UCC is integral part of BJP's Manifesto since its birth.",0,Authority
+UCC,"Pmk strictly opposes Uniform civil code. @draramadoss#PMK #ANBUMANI #RAMADOSS #UCC  #Uniform_Civil_Code",-1,Purity
+UCC,"Say #NoUCC #Uniform_Civil_Code",-1,Purity
+UCC,"My Vote is for Secular Uniform Civil Code.#uniform_civil_code #secularucc",-1,Fairness
 UCC,#Uniform_Civil_Code we support and best wishes,1,Fairness
-UCC,"Law Commission of India extends deadline for submitting views and suggestions on the Uniform Civil Code, by two weeks.
-
-The monsoon session of Parliament begins on July 20 and will continue till August 11.
-
-#Uniform_Civil_Code",0,Authority
+UCC,"Law Commission of India extends deadline for submitting views and suggestions on the Uniform Civil Code by two weeks.The monsoon session of Parliament begins on July 20 and will continue till August 11.#Uniform_Civil_Code",0,Authority
 UCC,This is the very reason why we need  #Uniform_Civil_code #UCC ASAP ,1,Fairness
-EVM,"EVMs : EVMs Cheating Indian Democracy Shocking 
-#EknathShinde
-#Maharashtra #EVM #BanEVM",0,Fairness
-EVM,"Only Ballot Paper !!
- #BanEVM",1,Fairness
-EVM,"Ban EVM or let them Ban Democracy .
-
-#BanEVM",-1,Fairness
-EVM,"#BanEVM_BringBallot
-#BanEVM_SaveDemocracy 
-#BanEVM
-
-Ballot is more powerful than a Bullet.",1,Loyalty
-EVM,"Winning candidates in Nashik District Assembly constituencies have almost the same number of votes.
-
-Isn’t this strange but ECI won’t take any action.
-#BanEVM",-1,Fairness
-EVM,"Can u imagine BJP was leading just on 8 Seats whereas Congress was leading on 77 seats..
-
-And now BJP is leading in Haryana with 50 seats..
-
-Elections has become a big Joke in India.
-
-#BANEVM #EVMSCAM",-1,Fairness
-EVM,"A True leader doesn’t need power to serve people.
-
-Dr. Rajesh Tope who saved Maharashtra during Covid is back to serve people even though he lost election to BJP’s manipulative EVMs. 
-
-#BanEVM",-1,Loyalty
-UCC,"Law Commission extends deadline till July 28 for public to send views on uniform civil code.
-
-#Uniform_Civil_Code #lawcommission",0,Authority
+EVM,"EVMs : EVMs Cheating Indian Democracy Shocking #EknathShinde #Maharashtra #EVM #BanEVM",0,Fairness
+EVM,"Only Ballot Paper !! #BanEVM",1,Fairness
+EVM,"Ban EVM or let them Ban Democracy .#BanEVM",-1,Fairness
+EVM,"#BanEVM_BringBallot#BanEVM_SaveDemocracy #BanEVMBallot is more powerful than a Bullet.",1,Loyalty
+EVM,"Winning candidates in Nashik District Assembly constituencies have almost the same number of votes. Isn’t this strange but ECI won’t take any action. #BanEVM",-1,Fairness
+EVM,"Can u imagine BJP was leading just on 8 Seats whereas Congress was leading on 77 seats. And now BJP is leading in Haryana with 50 seats.Elections has become a big Joke in India.#BANEVM #EVMSCAM",-1,Fairness
+EVM,"A True leader doesn’t need power to serve people. Dr. Rajesh Tope who saved Maharashtra during Covid is back to serve people even though he lost election to BJP’s manipulative EVMs. #BanEVM",-1,Loyalty
+UCC,"Law Commission extends deadline till July 28 for public to send views on uniform civil code. #Uniform_Civil_Code #lawcommission",0,Authority
 UCC,Union Law Minister Arjun Ram Meghwal on Tuesday said that the implementation of a #uniform_civil_code is part of the government's agenda.,0,Authority
-UCC,"#IndiaAgainstUCC
-UCC is a fascist RSS plan to systematically destroy many cultures #UCCDividesIndia",-1,Purity
-UCC,"To make it simple...
-
-#Uniform_Civil_Code 
-
-is the need of the hour!",1,Fairness
+UCC,"#IndiaAgainstUCC UCC is a fascist RSS plan to systematically destroy many cultures #UCCDividesIndia",-1,Purity
+UCC,"To make it simple.#Uniform_Civil_Code is the need of the hour!",1,Fairness
 UCC,Implementation of #UCC will be the actual/real form of #Secularism …!!!,1,Fairness
-UCC,"Markazi Jamiat Ahl E Hadees Al Hind's Stand on #UCC 
-#UCCDividesIndia",-1,Loyalty
+UCC,"Markazi Jamiat Ahl E Hadees Al Hind's Stand on #UCC #UCCDividesIndia",-1,Loyalty
 UCC,"#Assam will be the third state after Uttarakhand and Gujarat to introduce a Bill seeking a #Uniform_Civil_Code and it will #exempt the #tribal communities from the ambit of the law, Chief Minister Himanta Biswa Sarma said on Thursday.",0,Fairness
-UCC,"Unable to meet the basic needs of the farmers, the BJP government suffered a huge setback due to their slippery struggle!
-Is this what fascism expects from Muslims? #uccdividesindia",-1,Care
+UCC,"Unable to meet the basic needs of the farmers, the BJP government suffered a huge setback due to their slippery struggle! Is this what fascism expects from Muslims? #uccdividesindia",-1,Care
 UCC,Would damage India's reputation. The UCC would damage India's reputation as a secular country. #UCCDividesIndia,-1,Fairness
-UCC,"Watch the program"" Chandigarh Speaks on Uniform Civil Code"" on 
-@DDPunjabi
- today(16.07.23) at 4:15PM. #DDChandigarh #UCC #Uniform_Civil_Code",0,Authority
+UCC,"Watch the program"" Chandigarh Speaks on Uniform Civil Code"" on @DDPunjabi today(16.07.23) at 4:15PM. #DDChandigarh #UCC #Uniform_Civil_Code",0,Authority
 UCC,"Do you support the view of the Modi Govt that the need of the hour for India, is to implement a secular uniform civil code?",0,Loyalty
-UCC,"#UNIFORM_CIVIL_CODE
-#ONE_NATION_ONE_LAW",1,Fairness
-UCC,"Law Commission extended 2 weeks time to seek suggestions on Uniform Civil Code, now deadline will be July 28. As Deadline Nears, Law Commission Receives 46 Lakh Responses on Uniform Civil Code
-#UCCDividesIndia #UCC #UCCisNotUniform",0,Fairness
+UCC,"#UNIFORM_CIVIL_CODE #ONE_NATION_ONE_LAW",1,Fairness
+UCC,"Law Commission extended 2 weeks time to seek suggestions on Uniform Civil Code, now deadline will be July 28. As Deadline Nears, Law Commission Receives 46 Lakh Responses on Uniform Civil Code #UCCDividesIndia #UCC #UCCisNotUniform",0,Fairness
 UCC,"Not in the best interests of the people. The UCC is not in the best interests of the people, as it would not improve their lives in any significant way. #UCCDividesIndia",-1,Care
 LGBTQ,"Hello all 3 gay people left on this cesspool of an app. Idk which one of y'all needs to hear it, but same sex couples still go through mental and physical abuse. If that's you, run, you can do better and people care about you. That's all I gotta say about tha",0,Care
-LGBTQ,"so is bro Amish or ??????
-I swear he's like ""reject modernity"" but he has a twitter account
-I doubt he's 100% traditional if he has
-1. a twitter account
-2. he has a phone
-
-dude don't ever let these hypocritical assholes get you down",1,Purity
-LGBTQ,"so is bro Amish or ??????
-I swear he's like ""reject modernity"" but he has a twitter account
-I doubt he's 100% traditional if he has
-1. a twitter account
-2. he has a phone
-
-dude don't ever let these hypocritical assholes get you down",1,
-LGBTQ,"Genuinely wondering why people are homophobic.
-
-Is it because you're emotionally immature or just can’t find the love of your life on your own?",0,Fairness
+LGBTQ,"so is bro Amish or ?????? I swear he's like ""reject modernity"" but he has a twitter account I doubt he's 100% traditional if he has 1. a twitter account 2. he has a phone dude don't ever let these hypocritical assholes get you down",1,Purity
+LGBTQ,"Genuinely wondering why people are homophobic. Is it because you're emotionally immature or just can’t find the love of your life on your own?",0,Fairness
 LGBTQ,Gender is a spectrum. Let's create a world where all gender identities are respected,1,Care
 LGBTQ,Balancing Masculinity and Femininity in Relationships,0,Authority
 LGBTQ,The comments come as the once-revered actress and liberal activist saw her career dry up in the aftermath of comments she made at a pro-Palestinian rally.,-1,Fairness
@@ -258,17 +120,14 @@ LGBTQ,"I want to introduce everyone to Tony Christensen! Tony has been a member 
 LGBTQ,"Today, I want to introduce you all to the founder of our choir. I didn't get the chance to meet him but he's still talked about at practice. He is remembered in our choir through jokes and stories. Without him, our chorus wouldn't exist.  Meet Robert Stone (1944 - 2022).",1,Care
 LGBTQ,"In 10 years of singing, we have held eight Christmas Concerts. We are about to put on our ninth one on December 14th at 4 pm. Enjoy some of our posters!",1,Care
 LGBTQ,"It is truly an honor to be among this incredible group of activists, business leaders, and organizers in Out SFL's 2024 South Florida Out & Proud list. Thank you, Jason Parsley, Justin M. Wyse, Denise Royal, Mark Kent & everyone at .",1,Fairness
-LGBTQ,"Transgender advocate raises concern over Manitoba Tories' approval of leadership candidate Wally Daudrich
-",-1,Fairness
+LGBTQ,"Transgender advocate raises concern over Manitoba Tories' approval of leadership candidate Wally Daudrich",-1,Fairness
 LGBTQ,Hormone therapy affects the metabolic health of transgender individuals,0,Care
 LGBTQ,Transgender people are fucking repulsive.,-1,Authority
 LGBTQ,She needed MENTAL HEALTH care NOT disfiguring surgery. This is so wrong.,-1,Authority
 LGBTQ,"Named Stephen at birth, Stephanie always knew she was a girl. In many ways, she lucked out, and then she ran into the man who brutalized her as a child and remembered her pledge to kill him",-1,Fairness
-LGBTQ,"Polish government approves criminalisation of anti-LGBT hate speech
-",0,Care
+LGBTQ,"Polish government approves criminalisation of anti-LGBT hate speech",0,Care
 LGBTQ,"Two out trans candidates, Honey Maharjan and Mouni Maharjan, are running for office in Nepal, marking the first time that out trans candidates have run for the positions.",0,Fairness
-LGBTQ,"Discover how creating gratitude lists can empower transgender individuals to reflect on personal growth and the support they've received from their communities during the holidays
-",1,Purity
+LGBTQ,"Discover how creating gratitude lists can empower transgender individuals to reflect on personal growth and the support they've received from their communities during the holidays",1,Purity
 LGBTQ,"Discrimination is major factor affecting trans+ people’s mental health, says study",-1,Authority
 LGBTQ,Republicans demand WHO abandon its guidelines on transgender treatment,-1,Fairness
 LGBTQ,A public-hospital employee from central Iowa has been fired after being accused of flipping off and “deadnaming” a transgender patient.,-1,Purity
@@ -300,9 +159,7 @@ LGBTQ,"Exactly this. If the people who made these videos had ANY wish & desire t
 LGBTQ,"Exactly! Before all of this activism I wouldn't have cared.  For the most part I still don't.  It's just people like this I don't want in my space, or my sports, or female prisons etc...",-1,Fairness
 LGBTQ,"I have four brothers.... I always thought it was supremely unfair that they could pee standing up... and they could also just go pee in the bushes while I had to stand in long lines to use the toilet. Yet, they want this ""right""?? I don't have to participate in the delusion.",-1,loyalty
 LGBTQ,Plain and simple...men bullying women.,-1,Fairness
-LGBTQ,"The ""trans"" womanface cosplayers who have hijacked gender for their sick perversions are 100% the people who everyone in MAGA/MAHA has issues with. 
-
-It's entirely shameful that the crazy Left enables them & makes life harder for people with actual gender dysphoria.",-1,loyalty
+LGBTQ,"The ""trans"" womanface cosplayers who have hijacked gender for their sick perversions are 100% the people who everyone in MAGA/MAHA has issues with. It's entirely shameful that the crazy Left enables them & makes life harder for people with actual gender dysphoria.",-1,loyalty
 LGBTQ,As a transsexual I agree! WTF! It’s the military NOT a spa and a trans person can totally join the military AFTER they medically transition if they desire. This entitlement is insane! So if thats the case anyone who needs to have affirmative cosmetic surgery should just join the military and get a boob job or a butt lift! So sick of these stupid “ trans rights “ people blurring the lines,-1,Fairness
 LGBTQ,"I respectfully disagree.  It has nothing to do with spaces or any disrespect the Trans community.  It has everything to do with medication for life.  No matter what your MOS is in the military, ultimately everyone is a Grunt in the end.  Your secondary MOS is foot soldier.  If you depend on meds to keep yourself fit, then you’re not able to deploy.",1,loyalty
 LGBTQ,"Gender Identity Disorder was first set as a diagnosis in the Diagnostic Statistical Manual (used to diagnosis mental illnesses) in 1987. It was changed to Gender Dysphoria in 2013 to erase the stigma attached to the word Disorder. Note the prevalence rate. I wonder if some of those interesting studies have lapsed due to not wanting to find the biological, genetic, or psychological influences that may be causal and perhaps able to be addressed. Note the paragraph that advises the proper course of treatment to make sure the person is doing it for the right reason! And how much higher the success rate was. ",-1,Care
@@ -622,30 +479,13 @@ CAA,The CAA undermines fairness by introducing religious criteria for citizenshi
 CAA,The Constitution grants us rights that CAA threatens to take away. It’s time to challenge the authority that betrays these principles. #ReclaimDemocracy,-1,Authorithy
 CAA,"If we truly love our nation, we must ensure everyone is treated equally. CAA is an affront to this loyalty. #SecularIndia""",-1,Loyalty
 CAA,Caring for our nation means caring for its most vulnerable. CAA only harms those who need our protection the most. #NoToCAA,-1,Care
-EVM,"Fight Against #EVMFraud is at its peak
-
-For the first time in Maharashtra, 
-@ShivSenaUBT_
- MLAs refused to take oath in protest against #EVM
-
-Not only leaders but also entire village questioned the 
-@ECISVEEP
- about the #EVMRigging",0,
+EVM,"Fight Against #EVMFraud is at its peak For the first time in Maharashtra @ShivSenaUBT_MLAs refused to take oath in protest against #EVMNot only leaders but also entire village questioned the @ECISVEEPabout the #EVMRigging",0,
 EVM,Now this is really confusing  #EVMRigging,1,
-EVM,"This regime will remain in power as long as #EVMRigging is there
-
-INDIA Alliance is not serious about this",1,
-EVM,"Is it about #EVMRigging!!
-
-Coz Punjab Elections are around the corner",0,
+EVM,"This regime will remain in power as long as #EVMRigging is there INDIA Alliance is not serious about this",1,
+EVM,"Is it about #EVMRigging!!Coz Punjab Elections are around the corner",0,
 EVM,Is it on #EVMRigging!! I mean what more important can be than #Democracy?,-1,
-EVM,"The reality of #EVMGods
-
-There’s no more Democratic Republic of India, it’s replaced by Autocratic Republic through #EVMRigging ",1,
-EVM,"Ban EVM
-Save Democracy
-
-#EVMscam #EVMHacking #EVMHacked #EVMRigging",1,
+EVM,"The reality of #EVMGods There’s no more Democratic Republic of India, it’s replaced by Autocratic Republic through #EVMRigging ",1,
+EVM,"Ban EVM Save Democracy #EVMscam #EVMHacking #EVMHacked #EVMRigging",1,
 EVM,"Democracy was murdered the day Indian elections were rigged
 
 They’re now just playing with it’s dead body 
@@ -659,25 +499,14 @@ Few instances below, but I have plethora of glaring evidence ",0,
 EVM,"The proof video stolen #EVM #EVMRigging #EVMHacking .what and  where is response from 
 @ECISVEEP
  the nation required answer ..",0,
-EVM,"I’ll still shout on top of my voice that the Elections are rigged in many ways
-
-But #EVMRigging is the most subtle & effective way to kill a #Democracy 
-
-#BanEVM",1,
+EVM,"I’ll still shout on top of my voice that the Elections are rigged in many ways But #EVMRigging is the most subtle & effective way to kill a #Democracy #BanEVM",1,
 EVM,Is it only me who is seeing the videos of EVM transfers emerging in social media? This is unconstitutional and if people still believe this BJP govt we are doomed. #EVMRigging,0,
-EVM,"Playing Now: Campaign to discredit the #ExitPolls! 
-Coming up next: #EVMRigging ",0,
+EVM,"Playing Now: Campaign to discredit the #ExitPolls! Coming up next: #EVMRigging ",0,
 EVM,#EVMrigging seems a reality & opposition behaving like they don’t have any responsibility to reposing the trust among voters is ridiculous. ,-1,
 EVM,"#EVMRigging: Multiple videos of EVMs movement in UP, Bihar surface online days after polling ends; Opposition alleges tampering",0,
 EVM,"Even after so many complaints, they are not stopping this. #EVMRigging",1,
-EVM,"In Maharashtra, the Uddhav Thackeray Shiv Sena party members staged a unique protest, alleging that the BJP alliance won again by tampering with the EVM machines.
-
-#evmfraud #evmmachine #zevenstone #trending #modi #bjp #bjpfails #tamilnadu #tamilnews #syedshuja #paperballot",0,
-EVM,"Fight Against #EVMFraud is at its peak
-
-For the first time in Maharashtra, 
-@ShivSenaUBT_
- MLAs refused to take oath in protest against #EVM
+EVM,"In Maharashtra, the Uddhav Thackeray Shiv Sena party members staged a unique protest, alleging that the BJP alliance won again by tampering with the EVM machines.#evmfraud #evmmachine #zevenstone #trending #modi #bjp #bjpfails #tamilnadu #tamilnews #syedshuja #paperballot",0,
+EVM,"Fight Against #EVMFraud is at its peak For the first time in Maharashtra,@ShivSenaUBT_ MLAs refused to take oath in protest against #EVM
 
 Not only leaders but also entire village questioned the 
 @ECISVEEP
